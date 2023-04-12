@@ -17,3 +17,10 @@ function convertPoundsToKg(Pounds){
   };
 
   console.log("Fahrenheit to Celsius = " + fahrenheitToCelsius(75) );
+
+  function feetToMeters(Feet){
+   return Feet * 0.3048;
+ 
+   };
+   console.log("Feet to Meters = " + feetToMeters(10));
+ 
